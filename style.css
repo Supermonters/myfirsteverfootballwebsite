@@ -1,0 +1,56 @@
+  html{
+    background: url('https://wallpapercave.com/wp/wp4208617.jpg');
+    background-size: cover;
+    text-transform:initial ;
+    font-family: 'Merriweather', serif;
+   
+}
+h1{
+background: url('https://media.istockphoto.com/photos/dotted-grid-paper-background-texture-seamless-repeat-pattern-picture-id1320330053?b=1&k=20&m=1320330053&s=170667a&w=0&h=XisfN35UnuxAVP_sjq3ujbFDyWPurSfSTYd-Ll09Ncc=');
+   padding: 2px;
+   text-align: center;
+   font-size: 40px;
+}
+.content{
+    flex-wrap: wrap;
+}
+span{
+    background-color: #f5f6fa;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.bang1,.bang2{
+    box-sizing: content-box;
+    border: solid 5px black;
+    width: 800px;
+    padding: 20px;
+    overflow: scroll;
+    height: 600px;
+   
+    margin: 10px;
+  }
+#anh{
+    height: 600px;
+    height: 400px;
+}
+#chelsealink a{
+    text-decoration-line: none;
+}
+.bang1,.bang2{
+    background: url('https://img.freepik.com/free-vector/white-abstract-background_23-2148817571.jpg');
+    background-size: cover;
+
+}
+a{
+    text-decoration: none;
+}
+p{
+    font-size: larger;
+ }
+.logo{
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
